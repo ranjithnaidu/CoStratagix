@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CoStratagix</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="submitBtn">Submit Survey</string>
+    <string name="responsesBtn">View Responses</string>
+    <string name="title_activity_survey">SurveyActivity</string>
+    <string name="title_activity_responses">ResponsesActivity</string>
+    <string name="back_btn">Go back</string>
+
+</resources>
